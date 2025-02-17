@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+Here are some ideas to get you started:
+
 - 🔭 I’m currently working on improving my programming and problem-solving skills.
 - 🌱 I’m currently learning data structures, algorithms, and software testing.
 - 👯 I’m looking to collaborate on coding projects, competitive programming, and QA testing.
@@ -8,7 +11,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy experimenting with electronics and building small projects with circuits!
 
-🤷‍♂️ About Me:
+## 🤷‍♂️ About Me:
 Hi, I’m Mahmud, a passionate Computer Science and Engineering student at Southeast University, Bangladesh. As a 2nd-year student, I’m constantly expanding my skills in software development, QA testing, and electronics projects. I enjoy working on programming challenges, data structures, and circuit experiments with resistors, transistors, capacitors, and diodes.
 
 I’m eager to collaborate on coding projects, problem-solving, and software quality assurance to build efficient and high-performing applications. Whether it's debugging code, optimizing algorithms, or experimenting with electronics, I’m always excited to learn and improve.
