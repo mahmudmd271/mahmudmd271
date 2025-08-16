@@ -1,46 +1,54 @@
-## Hi there 👋
+Hi 👋 I'm Md Mahmud  
+=====================================================================
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C853&width=435&lines=🚀+Code.;🛠️+Test.;📚+Learn.;💡+Grow." alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on improving my programming and problem-solving skills.
-- 🌱 I’m currently learning data structures, algorithms, and software testing.
-- 👯 I’m looking to collaborate on coding projects, competitive programming, and QA testing.
-- 🤔 I’m looking for help with advanced data structures and career guidance in software testing.
-- 💬 Ask me about C, Python, and software quality assurance.
-- 📫 How to reach me: You can reach me at mahmudmd271@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I enjoy experimenting with electronics and building small projects with circuits!
-
-## 🤷‍♂️ About Me:
-Hi, I’m Mahmud, a passionate Computer Science and Engineering student at Southeast University, Bangladesh. As a 2nd-year student, I’m constantly expanding my skills in software development, QA testing, and electronics projects. I enjoy working on programming challenges, data structures, and circuit experiments with resistors, transistors, capacitors, and diodes.
-
-I’m eager to collaborate on coding projects, problem-solving, and software quality assurance to build efficient and high-performing applications. Whether it's debugging code, optimizing algorithms, or experimenting with electronics, I’m always excited to learn and improve.
-
-Let me know how we can work together! 🚀
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmudmd271) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmudmd271) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudmd271) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmudmd271&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahmudmd271&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudmd271&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahmudmd271&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmudmd271&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🌱 Passionate about **Software Quality Assurance, Problem-Solving, and Clean Code**  
+🔍 Exploring **Java, Python, C, and Testing Tools**  
+📊 Building **efficient and user-friendly systems** through academic & personal projects  
+📂 Active on **GitHub** with projects like Ticket Booking System & Games  
+🚀 Always learning, always experimenting
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahmudmd271&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Technologies I Use
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
+<a href="https://www.eclipse.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/eclipse-colored.svg" width="36" height="36" alt="Eclipse" title="Eclipse"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmudmd271" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
+<a href="https://github.com/mahmudmd271" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
+<a href="https://www.facebook.com/mahmudmd271" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/mahmudmd271">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudmd271&show_icons=true&count_private=true&title_color=00C853&text_color=ffffff&icon_color=00C853&bg_color=1c1917&hide_border=true" alt="GitHub stats" />
+</a>
+
+<a href="https://github.com/mahmudmd271">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudmd271&layout=compact&title_color=00C853&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top languages" />
+</a>
+
+---
+
+<!-- Made with ❤️ for coding and testing -->
