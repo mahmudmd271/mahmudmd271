@@ -1,9 +1,7 @@
 Hi 👋 I'm Md Mahmud  
 =====================================================================
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C853&width=435&lines=🚀+Code.;🛠️+Test.;📚+Learn.;💡+Grow." alt="Typing SVG" />
-</a>
+
 
 🌱 Passionate about **Software Quality Assurance, Problem-Solving, and Clean Code**  
 🔍 Exploring **Java, Python, C, and Testing Tools**  
